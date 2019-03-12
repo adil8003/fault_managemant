@@ -1,0 +1,9 @@
+<script src="<?php echo site_url('assets/js/core/jquery.3.2.1.min.js'); ?>"></script>
+<script src="<?php echo site_url('assets/js/core/popper.min.js'); ?>"></script>
+<script src="<?php echo site_url('assets/js/core/bootstrap.min.js'); ?>"></script>
+<script src="<?php // echo site_url('assets/js/select2.min.js');  ?> "></script>
+<script src="<?php echo site_url('assets/js/light-bootstrap-dashboard.js'); ?> "></script>
+<script src="<?php echo site_url('assets/alertifyjs/alertify.min.js'); ?> "></script>
+<script src="<?php echo site_url('assets/js/jquery.dataTables.yadcf.js'); ?>"></script>
+<script src="<?php echo site_url('assets/js/demo.js'); ?> "></script>
+<script src="<?php echo site_url('assets/js/common.js'); ?> "></script>

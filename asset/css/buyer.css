@@ -1,0 +1,18 @@
+.inner-header-buyer {
+    background: rgba(0, 0, 0, 0) url("../images/selling/h2.jpg") repeat scroll center top / 100% auto;
+    position: relative;
+}
+.inner-header-buyer::after {
+    background: #fff none repeat scroll 0 0;
+    bottom: 0;
+    content: "";
+    left: 0;
+    opacity: 0.8;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.inner-header-buyer .container {
+    position: relative;
+    z-index: 9;
+}
