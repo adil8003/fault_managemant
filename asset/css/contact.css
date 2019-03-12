@@ -1,34 +1,52 @@
 .conBtn a:hover
 {
-   color:white!important;
+    color:white!important;
 }
 .conBtn
 {
-  color:white!important;
+    color:white!important;
 }
 
 .inner-header-contact {
-background: rgba(0, 0, 0, 0) url("../images/contact/contact.jpg") repeat scroll center top / 100% auto;
-position: relative;
+    background: rgba(0, 0, 0, 0) url("../images/contact/contact.jpg") repeat scroll center top / 100% auto;
+    position: relative;
 }
 .inner-header-contact::after {
-background: #fff none repeat scroll 0 0;
-bottom: 0;
-content: "";
-left: 0;
-opacity: 0.8;
-position: absolute;
-right: 0;
-top: 0;
+    background: #fff none repeat scroll 0 0;
+    bottom: 0;
+    content: "";
+    left: 0;
+    opacity: 0.8;
+    position: absolute;
+    right: 0;
+    top: 0;
 }
 .inner-header-contact .container {
-position: relative;
-z-index: 9;
+    position: relative;
+    z-index: 9;
 }
 @media (max-width: 576px) 
 { 
-.staffBtn
-{
-margin-top: 5px!important;
+    .staffBtn
+    {
+        margin-top: 5px!important;
+    }
 }
+/*@adil*  login page css*/ 
+.guestCard{
+    height: 45px;
+    width: 54%;
 }
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+}
+
+#panel {
+    padding: 50px;
+    display: none;
+}
+
+

@@ -48,12 +48,12 @@
                  
                   <h6 class="mb-3 mt-4">GET IN TOUCH</h6>
                   <div class="footer-social">
-                                                        <a class="btn-facebook" target="_blank" href="<?php echo LINK_FACEBOOK; ?>"><i class="mdi mdi-facebook"></i></a>
+<!--                                                        <a class="btn-facebook" target="_blank" href="<?php echo LINK_FACEBOOK; ?>"><i class="mdi mdi-facebook"></i></a>
                                                         <a class="btn-twitter" target="_blank" href="<?php echo LINK_TWITTER; ?>"><i class="mdi mdi-twitter"></i></a>
                                                         <a class="btn-instagram" target="_blank" href="<?php echo LINK_INSTAGRAM; ?>"><i class="mdi mdi-instagram"></i></a>
-                                                        <!-- <a class="btn-whatsapp" href="#"><i class="mdi mdi-whatsapp"></i></a> -->
+                                                         <a class="btn-whatsapp" href="#"><i class="mdi mdi-whatsapp"></i></a> 
                                                         <a class="btn-linkedin" target="_blank" href="<?php echo LINK_LINKEDIN; ?>"><i class="mdi mdi-linkedin" data-name="mdi-linkedin"></i></i></a>
-                                                        <a class="btn-google" target="_blank" href="<?php echo LINK_GOOGLE; ?>"><i class="mdi mdi-google"></i></a>
+                                                        <a class="btn-google" target="_blank" href="<?php echo LINK_GOOGLE; ?>"><i class="mdi mdi-google"></i></a>-->
                   </div>
                </div>
             </div>

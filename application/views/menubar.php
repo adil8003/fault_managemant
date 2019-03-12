@@ -8,28 +8,28 @@
                 </p>
             </div>
             <div class="col-lg-8 col-md-8 text-right">
-                <ul class="list-inline">
-                    <li class="list-inline-item">
-                    <a style="color:black;" href="<?php echo LINK_FACEBOOK; ?>"><i class="fa fa-facebook" aria-hidden="true">
-                        </i></a>
-                    </li>
-                    
-                    <li class="list-inline-item">
-                    <a style="color:black;" href="<?php echo LINK_TWITTER; ?>"><i class="fa fa-twitter" aria-hidden="true" target="_blank"></i>
-                    </a>
-                    </li>
-                    
-                    <li class="list-inline-item">
-                    <a style="color:black;" href="<?php echo LINK_LINKEDIN; ?>"> <i class="fa fa-linkedin" aria-hidden="true" target="_blank"></i></a> 
-                    </li>
-                    <li class="list-inline-item">
-                    <a style="color:black;" href="<?php echo LINK_GOOGLE; ?>"> <i class="fa fa-google-plus"  aria-hidden="true" target="_blank"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                        <b><a style="color:black;" href="<?php echo LINK_INSTAGRAM; ?>"><i class="fa fa-instagram" style="font-weight:600!important;" aria-hidden="true" target="_blank"></i></b>
-                    </a>
-                    </li>
-                </ul>
+                <!--                <ul class="list-inline">
+                                    <li class="list-inline-item">
+                                    <a style="color:black;" href="<?php echo LINK_FACEBOOK; ?>"><i class="fa fa-facebook" aria-hidden="true">
+                                        </i></a>
+                                    </li>
+                                    
+                                    <li class="list-inline-item">
+                                    <a style="color:black;" href="<?php echo LINK_TWITTER; ?>"><i class="fa fa-twitter" aria-hidden="true" target="_blank"></i>
+                                    </a>
+                                    </li>
+                                    
+                                    <li class="list-inline-item">
+                                    <a style="color:black;" href="<?php echo LINK_LINKEDIN; ?>"> <i class="fa fa-linkedin" aria-hidden="true" target="_blank"></i></a> 
+                                    </li>
+                                    <li class="list-inline-item">
+                                    <a style="color:black;" href="<?php echo LINK_GOOGLE; ?>"> <i class="fa fa-google-plus"  aria-hidden="true" target="_blank"></i></a>
+                                    </li>
+                                    <li class="list-inline-item">
+                                        <b><a style="color:black;" href="<?php echo LINK_INSTAGRAM; ?>"><i class="fa fa-instagram" style="font-weight:600!important;" aria-hidden="true" target="_blank"></i></b>
+                                    </a>
+                                    </li>
+                                </ul>-->
             </div>
         </div>
     </div>
@@ -62,11 +62,11 @@
                         <a class="nav-link " href="<?php echo base_url(); ?>welcome1"  data-toggle="" aria-haspopup="true" aria-expanded="false">
                             HOME 2
                         </a> -->
-                        <!-- <div class="dropdown-menu" aria-labelledby="navbarDropdownPortfolio">
-                           <a class="dropdown-item" href="index1.html">Home With Search</a>
-                           <a class="dropdown-item" href="index2.html">Home With Map</a>
-                           <a class="dropdown-item" href="index3.html">Home With Property Info</a>
-                        </div> -->
+                    <!-- <div class="dropdown-menu" aria-labelledby="navbarDropdownPortfolio">
+                       <a class="dropdown-item" href="index1.html">Home With Search</a>
+                       <a class="dropdown-item" href="index2.html">Home With Map</a>
+                       <a class="dropdown-item" href="index3.html">Home With Property Info</a>
+                    </div> -->
                     <!-- </li> -->
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#"  data-toggle="dropdown" aria-haspopup="false" aria-expanded="false">
@@ -86,9 +86,9 @@
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownPortfolio">
                             <a class="dropdown-item" href="<?php echo base_url(); ?>buyers_guide">Buyer&#39;s Guide</a>
-                             <a class="dropdown-item" href="#">Our Services</a>
-                           <!-- <a class="dropdown-item" href="agents.html">Agents</a>
-                            <a class="dropdown-item" href="agent-profile.html">Agent Profile</a> -->
+                            <a class="dropdown-item" href="#">Our Services</a>
+                            <!-- <a class="dropdown-item" href="agents.html">Agents</a>
+                             <a class="dropdown-item" href="agent-profile.html">Agent Profile</a> -->
                         </div>
                     </li>
                     <li class="nav-item dropdown">
