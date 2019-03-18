@@ -2,7 +2,7 @@
 
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Ticket extends CI_Controller {
+class Profile extends CI_Controller {
 
     function __construct() {
         parent::__construct();
@@ -17,8 +17,7 @@ class Ticket extends CI_Controller {
     }
 
     public function index() {
-        $this->load->view('ticket');
-//          redirect(base_url('site/login'));
+        $this->load->view('profile');
     }
 
 }

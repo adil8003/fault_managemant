@@ -27,7 +27,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             <img src="<?php echo base_url(); ?>asset/images/home/logo1.png" alt="Maple Estate Agents">
                         </div>
                         <div class="content">
-                            <form id="form-login" style="padding: 10px;" method="POST" action="<?php echo base_url('site/home');?>">
+                            <form id="form-login" style="padding: 10px;" method="POST" action="<?php echo base_url('site/home'); ?>">
                                 <div class="row">
                                     <div class="col-md-12">
                                         <div class="form-group" >
@@ -48,13 +48,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 </div>
 
                                 <div class="text-center">
-                                    <button id="loginButton" href="<?php echo base_url('site/forgetPassword');?>"  type="submit" class="btn btn-info btn-fill btn-wd">Login</button>
+                                    <button id="loginButton" href="<?php echo base_url('site/forgetPassword'); ?>"  type="submit" class="btn btn-info btn-fill btn-wd">Login</button>
                                 </div>
                                 <div class="pull-right">
-                                    <a  href="<?php echo base_url('site/forgetPassword');?>" >Forgot Password</a>
-                                </div>
-                                <div class="pull-left">
-                                    <a  href="<?php echo base_url('site/home');?>" >Login as a Guest</a>
+                                    <a  href="<?php echo base_url('site/forgetPassword'); ?>" >Forgot Password</a>
                                 </div>
                                 <div class="clearfix"></div>
                             </form>

@@ -2,7 +2,7 @@
 
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Site extends CI_Controller {
+class Home extends CI_Controller {
 
     function __construct() {
         parent::__construct();
@@ -17,23 +17,14 @@ class Site extends CI_Controller {
     }
 
     public function index() {
-        $this->load->view('login');
-//          redirect(base_url('site/login'));
-        redirect(base_url('login'));
-    }
-    
-    public function guest() {
-        $this->load->view('guest');
+        $this->load->view('home');
 //          redirect(base_url('site/login'));
 //        redirect(base_url('login'));
     }
-    
-
-    public function forgetPassword() {
-        $this->load->view('forget-password');
-    }
-    public function home() {
-        $this->load->view('home');
+    public function home2() {
+        $this->load->view('home2');
+//          redirect(base_url('site/login'));
+//        redirect(base_url('login'));
     }
 
 }
